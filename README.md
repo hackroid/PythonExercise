@@ -153,17 +153,19 @@ Unordered list:
 Ordered list:
 
 1.	First
-2.	Second
+1.	Second
 3.	Third
 
 
 Mixed:
 
 1. First
+    *	asterisk 1
 2. Second:
 	* Fee
 	* Fie
 	* Foe
+    *   jisdf
 3. Third
 
 
