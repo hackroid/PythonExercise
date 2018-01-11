@@ -5,3 +5,9 @@ while val != 1:
     val -= 1
 else:
     print("end")
+
+while 1 > 0:
+    print("begin")
+    break
+else:
+    print("end")
