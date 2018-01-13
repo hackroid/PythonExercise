@@ -9,6 +9,5 @@ else:
 while 1 > 0:
     print("begin")
     break
-else:
-    pass
-
+else:  # this block will be executed if no Exception and Break and Return in the section before
+    pass  # just for syntactically requirement
