@@ -10,4 +10,5 @@ while 1 > 0:
     print("begin")
     break
 else:
-    print("end")
+    pass
+
