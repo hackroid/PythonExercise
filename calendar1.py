@@ -15,3 +15,9 @@ print(t2 - t1)
 
 calen = calendar.calendar(2108, w=0, l=0, c=5)
 print(calen)
+print(calendar.firstweekday())
+
+print("2018 is a leap year: ", calendar.isleap(2018))
+
+print("How many leap days between 2000 and 2018: ", calendar.leapdays(2000,2018))
+
